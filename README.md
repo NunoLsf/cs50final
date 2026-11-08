@@ -1,5 +1,5 @@
 # Deck Check
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/8kvwqVKwNys
 #### Description:
 
 Deck Check is a Python command-line program for exploring the prices of Magic: The Gathering Commander decks.
